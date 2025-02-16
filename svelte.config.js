@@ -1,7 +1,6 @@
 import adapter from '@sveltejs/adapter-static';
 
-const dev = process.env.NODE_ENV === 'development';
-const repoName = 'your-repo-name'; // Replace with your actual repo name
+const basePath = process.env.BASE_PATH || '';
 
 export default {
 	kit: {
@@ -11,7 +10,7 @@ export default {
 			fallback: '404.html'
 		}),
 		paths: {
-			base: dev ? '' : `/${repoName}`
+			base: basePath
 		},
 		appDir: 'internal'
 	}
