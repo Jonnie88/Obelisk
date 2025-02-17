@@ -5,18 +5,17 @@
 		{ num: 'Lin' },
 		{ num: 'Nrk' },
 		{ num: 'Sp' },
-		{ num: 9 },
-		{ num: 8 },
 		{ num: 7 },
+		{ num: 8 },
+		{ num: 9 },
 
-		{ num: 6 },
-		{ num: 5 },
 		{ num: 4 },
+		{ num: 5 },
+		{ num: 6 },
 
-		{ num: 3 },
-		{ num: 2 },
 		{ num: 1 },
-
+		{ num: 2 },
+		{ num: 3 },
 		{ num: 0, class: 'col-span-2' },
 		{ num: 'C' }
 	];

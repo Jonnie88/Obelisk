@@ -1,0 +1,3142 @@
+{
+  "Postnr": [
+    {
+      "PNR": 58182,
+      "PORT": "LINKÖPING",
+      "Zon": "SAAB Malmslätt Box nr",
+      "Stycke": 521
+    },
+    {
+      "PNR": 58183,
+      "PORT": "LINKÖPING",
+      "Zon": "UNIVERSITETET",
+      "Stycke": 547
+    },
+    {
+      "PNR": 58185,
+      "PORT": "LINKÖPING",
+      "Zon": "Universitetssjukhuset",
+      "Stycke": 546
+    },
+    {
+      "PNR": 58188,
+      "PORT": "LINKÖPING",
+      "Zon": "SAAB Linköping Box nr",
+      "Stycke": 551
+    },
+    {
+      "PNR": 58212,
+      "PORT": "LINKÖPING",
+      "Zon": "Södra Innerstan",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58213,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58214,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58215,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58216,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58217,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan",
+      "Stycke": 546,
+      "Paket": 276
+    },
+    {
+      "PNR": 58218,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58219,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58220,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan Ö",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58221,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan Ö",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58222,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 536,
+      "Paket": "Se lista delade postnr"
+    },
+    {
+      "PNR": 58223,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 537,
+      "Paket": "Se lista delade postnr"
+    },
+    {
+      "PNR": 58224,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 537,
+      "Paket": "Se lista delade postnr"
+    },
+    {
+      "PNR": 58225,
+      "PORT": "LINKÖPING",
+      "Zon": "Södra Innerstan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58226,
+      "PORT": "LINKÖPING",
+      "Zon": "Innerstan",
+      "Stycke": 537,
+      "Paket": 256
+    },
+    {
+      "PNR": 58227,
+      "PORT": "LINKÖPING",
+      "Zon": "Övre Innerstan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58228,
+      "PORT": "LINKÖPING",
+      "Zon": "Södra Innerstan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58229,
+      "PORT": "LINKÖPING",
+      "Zon": "Södra Innerstan",
+      "Stycke": 536,
+      "Paket": 276
+    },
+    {
+      "PNR": 58230,
+      "PORT": "LINKÖPING",
+      "Zon": "US",
+      "Stycke": 546,
+      "Paket": 276
+    },
+    {
+      "PNR": 58231,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58232,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan Ö",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58233,
+      "PORT": "LINKÖPING",
+      "Zon": "Vasastan",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58234,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg Ö",
+      "Stycke": 536,
+      "Paket": 256
+    },
+    {
+      "PNR": 58235,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg Ö",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58236,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58237,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58238,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg Ö",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58239,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58240,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58241,
+      "PORT": "LINKÖPING",
+      "Zon": "Folkungavallen",
+      "Stycke": 537,
+      "Paket": 256
+    },
+    {
+      "PNR": 58242,
+      "PORT": "LINKÖPING",
+      "Zon": "Tannefors S",
+      "Stycke": 551,
+      "Paket": 256
+    },
+    {
+      "PNR": 58243,
+      "PORT": "LINKÖPING",
+      "Zon": "Vimanshäll",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58244,
+      "PORT": "LINKÖPING",
+      "Zon": "Vimanshäll",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58245,
+      "PORT": "LINKÖPING",
+      "Zon": "Majelden",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58246,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58247,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58248,
+      "PORT": "LINKÖPING",
+      "Zon": "Gottfridsberg",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58249,
+      "PORT": "LINKÖPING",
+      "Zon": "T1 området",
+      "Stycke": 547,
+      "Paket": 276
+    },
+    {
+      "PNR": 58252,
+      "PORT": "LINKÖPING",
+      "Zon": "Tannefors S",
+      "Stycke": 551,
+      "Paket": 256
+    },
+    {
+      "PNR": 58253,
+      "PORT": "LINKÖPING",
+      "Zon": "Saab",
+      "Stycke": 551
+    },
+    {
+      "PNR": 58254,
+      "PORT": "LINKÖPING",
+      "Zon": "Saab",
+      "Stycke": "Se lista delade postnr"
+    },
+    {
+      "PNR": 58255,
+      "PORT": "LINKÖPING",
+      "Zon": "Industrigatan",
+      "Stycke": 536,
+      "Paket": 276
+    },
+    {
+      "PNR": 58272,
+      "PORT": "LINKÖPING",
+      "Zon": "Tallboda",
+      "Stycke": 246,
+      "Paket": 281
+    },
+    {
+      "PNR": 58273,
+      "PORT": "LINKÖPING",
+      "Zon": "Tornby 2",
+      "Stycke": "Se lista",
+      "Paket": "Se lista"
+    },
+    {
+      "PNR": 58274,
+      "PORT": "LINKÖPING",
+      "Zon": "Tallboda",
+      "Stycke": 246,
+      "Paket": 281
+    },
+    {
+      "PNR": 58275,
+      "PORT": "LINKÖPING",
+      "Zon": "Ekängen",
+      "Stycke": 246,
+      "Paket": 281
+    },
+    {
+      "PNR": 58276,
+      "PORT": "LINKÖPING",
+      "Zon": "Ekängen",
+      "Stycke": 246,
+      "Paket": 281
+    },
+    {
+      "PNR": 58277,
+      "PORT": "LINKÖPING",
+      "Zon": "Industrigatan",
+      "Stycke": 536,
+      "Paket": 276
+    },
+    {
+      "PNR": 58278,
+      "PORT": "LINKÖPING",
+      "Zon": "Torvinge / Kallerstad",
+      "Stycke": 526,
+      "Paket": 281
+    },
+    {
+      "PNR": 58328,
+      "PORT": "LINKÖPING",
+      "Zon": "Vallastaden",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58329,
+      "PORT": "LINKÖPING",
+      "Zon": "Universitetsområdet",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58330,
+      "PORT": "LINKÖPING",
+      "Zon": "Teknikringen",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58331,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58332,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58333,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58334,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58335,
+      "PORT": "LINKÖPING",
+      "Zon": "Teknikringen",
+      "Stycke": 546,
+      "Paket": 266
+    },
+    {
+      "PNR": 58336,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 546,
+      "Paket": 266
+    },
+    {
+      "PNR": 58337,
+      "PORT": "LINKÖPING",
+      "Zon": "Jägarevallen",
+      "Stycke": 546,
+      "Paket": 266
+    },
+    {
+      "PNR": 58338,
+      "PORT": "LINKÖPING",
+      "Zon": "Lambohov",
+      "Stycke": 547,
+      "Paket": 266
+    },
+    {
+      "PNR": 58360,
+      "PORT": "GAMMALKIL",
+      "Zon": "Gammalkil",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58371,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Vikingstad",
+      "Stycke": 521
+    },
+    {
+      "PNR": 58372,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Vikingstad",
+      "Stycke": 521
+    },
+    {
+      "PNR": 58391,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Västerlösa",
+      "Stycke": 521
+    },
+    {
+      "PNR": 58392,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Vikingstad",
+      "Stycke": 216
+    },
+    {
+      "PNR": 58393,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Vikingstad",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58393,
+      "PORT": "VIKINGSTAD",
+      "Zon": "Gammalkil",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58394,
+      "PORT": "NYKIL",
+      "Zon": "Nykil",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58422,
+      "PORT": "LINKÖPING",
+      "Zon": "Malmslätt Syd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58431,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58432,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58434,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58435,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58436,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58437,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58439,
+      "PORT": "LINKÖPING",
+      "Zon": "Ryd",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58507,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Boxnr",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58561,
+      "PORT": "LINGHEM",
+      "Zon": "Linghem",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58562,
+      "PORT": "LINGHEM",
+      "Zon": "Askeby",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58563,
+      "PORT": "LINGHEM",
+      "Zon": "Gistad",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58564,
+      "PORT": "LINGHEM",
+      "Zon": "Linghem",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58565,
+      "PORT": "LINGHEM",
+      "Zon": "Linghem",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58571,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Ljungsbro Syd",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58572,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Ljungsbro Norr",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58573,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Ljungsbro Syd",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58574,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Ljungsbro Syd",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58575,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Ljungsbro Syd",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58576,
+      "PORT": "VRETA KLOSTER",
+      "Zon": "Ljungsbro Syd",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58577,
+      "PORT": "VRETA KLOSTER",
+      "Zon": "Bergs Slussar",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58578,
+      "PORT": "VRETA KLOSTER",
+      "Zon": "Kvarn",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58580,
+      "PORT": "LJUNGSBRO",
+      "Zon": "Cloetta",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58591,
+      "PORT": "LINKÖPING",
+      "Zon": "Linghem Norr",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58592,
+      "PORT": "LINKÖPING",
+      "Zon": "Bankekind",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58593,
+      "PORT": "LINKÖPING",
+      "Zon": "Bankekind",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58594,
+      "PORT": "LINKÖPING",
+      "Zon": "Askeby",
+      "Stycke": 511
+    },
+    {
+      "PNR": 58595,
+      "PORT": "LINKÖPING",
+      "Zon": "Grebo måndag/onsdag/fredag",
+      "Stycke": 2,
+      "Paket": "Ej Linköping"
+    },
+    {
+      "PNR": 58596,
+      "PORT": "LINKÖPING",
+      "Zon": "Brokind",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58597,
+      "PORT": "LINKÖPING",
+      "Zon": "Skeda Udde",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58598,
+      "PORT": "LINKÖPING",
+      "Zon": "Jägarevallen",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58599,
+      "PORT": "LINKÖPING",
+      "Zon": "Borensberg SS",
+      "Stycke": 516
+    },
+    {
+      "PNR": 58642,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp Centrum",
+      "Stycke": 516,
+      "Paket": 266
+    },
+    {
+      "PNR": 58643,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp",
+      "Stycke": 541,
+      "Paket": 266
+    },
+    {
+      "PNR": 58644,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp",
+      "Stycke": 541,
+      "Paket": 266
+    },
+    {
+      "PNR": 58646,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp",
+      "Stycke": 541,
+      "Paket": 266
+    },
+    {
+      "PNR": 58647,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp",
+      "Stycke": 541,
+      "Paket": 266
+    },
+    {
+      "PNR": 58648,
+      "PORT": "LINKÖPING",
+      "Zon": "Skäggetorp",
+      "Stycke": 541,
+      "Paket": 266
+    },
+    {
+      "PNR": 58662,
+      "PORT": "LINKÖPING",
+      "Zon": "Malmslätt Norr",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58663,
+      "PORT": "LINKÖPING",
+      "Zon": "Malmslätt Norr",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58665,
+      "PORT": "LINKÖPING",
+      "Zon": "Malmslätt Norr",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58666,
+      "PORT": "LINKÖPING",
+      "Zon": "Malmslätt Norr",
+      "Stycke": 521,
+      "Paket": 266
+    },
+    {
+      "PNR": 58721,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58723,
+      "PORT": 31,
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58724,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58725,
+      "PORT": "LINKÖPING",
+      "Zon": "Koloniområdet",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58726,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58727,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58729,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58731,
+      "PORT": "LINKÖPING",
+      "Zon": "Vimanshäll",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58732,
+      "PORT": "LINKÖPING",
+      "Zon": "Vimanshäll",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58733,
+      "PORT": "LINKÖPING",
+      "Zon": "Vimanshäll",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58734,
+      "PORT": "LINKÖPING",
+      "Zon": "Berga 2",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58735,
+      "PORT": "LINKÖPING",
+      "Zon": "Johannelund",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58737,
+      "PORT": "LINKÖPING",
+      "Zon": "Vidingsjö",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58738,
+      "PORT": "LINKÖPING",
+      "Zon": "Majelden",
+      "Stycke": 551,
+      "Paket": 251
+    },
+    {
+      "PNR": 58739,
+      "PORT": 31,
+      "Zon": "Vidingsjö",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58750,
+      "PORT": "LINKÖPING",
+      "Zon": "Berga",
+      "Stycke": 546,
+      "Paket": 276
+    },
+    {
+      "PNR": 58752,
+      "PORT": "LINKÖPING",
+      "Zon": "Berga 2",
+      "Stycke": 546,
+      "Paket": 276
+    },
+    {
+      "PNR": 58758,
+      "PORT": "LINKÖPING",
+      "Zon": "I4/A1",
+      "Stycke": 546,
+      "Paket": 276
+    },
+    {
+      "PNR": 58921,
+      "PORT": "LINKÖPING",
+      "Zon": "Hjulsbro ",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58923,
+      "PORT": "LINKÖPING",
+      "Zon": "Ekholmen",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58925,
+      "PORT": "LINKÖPING",
+      "Zon": "Ekholmen",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58927,
+      "PORT": "LINKÖPING",
+      "Zon": "Ullstämma",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58929,
+      "PORT": "LINKÖPING",
+      "Zon": "Ekholmen",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58931,
+      "PORT": "LINKÖPING",
+      "Zon": "Hjulsbro",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58933,
+      "PORT": "LINKÖPING",
+      "Zon": "Hjulsbro Norr",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58935,
+      "PORT": 31,
+      "Zon": "Hjulsbro Norr",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58937,
+      "PORT": "LINKÖPING",
+      "Zon": "Hjulsbro Norr",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58939,
+      "PORT": "LINKÖPING",
+      "Zon": "Ullstämma",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58941,
+      "PORT": "LINKÖPING",
+      "Zon": "Hackefors",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58943,
+      "PORT": "LINKÖPING",
+      "Zon": "Skonberga",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58950,
+      "PORT": "LINKÖPING",
+      "Zon": "Ullstämma 2",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58951,
+      "PORT": "LINKÖPING",
+      "Zon": "Ullstämma",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58952,
+      "PORT": "LINKÖPING",
+      "Zon": "Hjulsbro",
+      "Stycke": 507,
+      "Paket": 251
+    },
+    {
+      "PNR": 58953,
+      "PORT": "LINKÖPING",
+      "Zon": "Vidingsjö",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58955,
+      "PORT": "LINKÖPING",
+      "Zon": "Vidingsjö",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58957,
+      "PORT": "LINKÖPING",
+      "Zon": "Vidingsjö",
+      "Stycke": 506,
+      "Paket": 251
+    },
+    {
+      "PNR": 58961,
+      "PORT": "LINKÖPING",
+      "Zon": "Sturefors",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58963,
+      "PORT": "LINKÖPING",
+      "Zon": "Sturefors",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58964,
+      "PORT": "LINKÖPING",
+      "Zon": "Sturefors",
+      "Stycke": 241
+    },
+    {
+      "PNR": 58965,
+      "PORT": "BESTORP",
+      "Zon": "Berga",
+      "Stycke": 241
+    },
+    {
+      "PNR": 59045,
+      "PORT": "BROKIND",
+      "Zon": "Brokind",
+      "Stycke": 241
+    },
+    {
+      "PNR": 59046,
+      "PORT": "RIMFORSA",
+      "Zon": "Kisa",
+      "Stycke": 3,
+      "Paket": "Ej Linköping"
+    },
+    {
+      "PNR": 59053,
+      "PORT": "ULRIKA",
+      "Zon": "Ulrika",
+      "Stycke": 241
+    },
+    {
+      "PNR": 59106,
+      "PORT": "BORENSBERG",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": 59174,
+      "PORT": "BORENSBERG",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": 59175,
+      "PORT": "BORENSBERG",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": 59176,
+      "PORT": "BORENSBERG",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": 59177,
+      "PORT": "BORENSBERG",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": 59178,
+      "PORT": "KLOCKRIKE",
+      "Zon": "Klockrike",
+      "Stycke": 516
+    },
+    {
+      "PNR": 59179,
+      "PORT": "FORNÅSA",
+      "Zon": "Borensberg",
+      "Stycke": 341
+    },
+    {
+      "PNR": "Senast uppdaterad 2025-02-10"
+    }
+  ],
+  "Tornby": [
+    {
+      "__EMPTY": "STYCKE",
+      "__EMPTY_1": "PAKET"
+    },
+    {
+      "58273 Tornby": "Attorpsgatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Sunnorpsgatan",
+      "__EMPTY_3": 556,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Bonnorpsgatan",
+      "__EMPTY": 501,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Svedengatan",
+      "__EMPTY_3": 501,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Dvärggatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Sättunagatan",
+      "__EMPTY_3": 556,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Floragatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Södra Oskarsgatan",
+      "__EMPTY_3": 221,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Fröstorpsgatan",
+      "__EMPTY": 501,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Södra Stånggatan",
+      "__EMPTY_3": 221,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Generalsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Södra Stånggatan 1",
+      "__EMPTY_3": 221,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Gillbergagatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Tyttorpsgatan",
+      "__EMPTY_3": 221,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Gjuterigatan",
+      "__EMPTY": 201,
+      "__EMPTY_1": 271,
+      "__EMPTY_2": "Älvkvarnsgatan",
+      "__EMPTY_3": 556,
+      "__EMPTY_4": 271
+    },
+    {
+      "58273 Tornby": "Gottorpsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Grytstorpsgatan",
+      "__EMPTY": 501,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Karebygatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Kolfallsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Norra Oskarsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Norra Stånggatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Nykvarnsgatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Roxengatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Roxtorpsgatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Roxviksgatan",
+      "__EMPTY": 501,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Rudsjögatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Sunnorpsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Svedengatan",
+      "__EMPTY": 501,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Sättunagatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Södra Oskarsgatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Södra Stånggatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Södra Stånggatan 1",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Tyttorpsgatan",
+      "__EMPTY": 221,
+      "__EMPTY_1": 271
+    },
+    {
+      "58273 Tornby": "Älvkvarnsgatan",
+      "__EMPTY": 556,
+      "__EMPTY_1": 271
+    }
+  ],
+  "Delade postnr": [
+    {
+      "582 22 Paket": "Drottninggatan ",
+      "__EMPTY": 261,
+      "582 23 Paket": "Apotekaregatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Gasverksgränd",
+      "__EMPTY": 256,
+      "582 23 Paket": "Borgmästregatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Gränden Duvan",
+      "__EMPTY": 261,
+      "582 23 Paket": "Hantverksgatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Hunnebergsgatan",
+      "__EMPTY": 256,
+      "582 23 Paket": "Klostergatan 1-19",
+      "__EMPTY_2": 256
+    },
+    {
+      "582 22 Paket": "Isidor Kjellbergs gränd",
+      "__EMPTY": 261,
+      "582 23 Paket": "Klostergatan 20-68",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Järnvägsgatan 2-6",
+      "__EMPTY": 256,
+      "582 23 Paket": "Läroverksgatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Järnvägsgatan 6-10",
+      "__EMPTY": 261,
+      "582 23 Paket": "Storgatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Klostergatan 1-19",
+      "__EMPTY": 256
+    },
+    {
+      "582 22 Paket": "Klostergatan 20-68",
+      "__EMPTY": 261,
+      "582 23 Paket": "582 24 Paket"
+    },
+    {
+      "582 22 Paket": "Konsistoriegatan",
+      "__EMPTY": 256,
+      "582 23 Paket": "Bokhållaregatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Linnégatan",
+      "__EMPTY": 261,
+      "582 23 Paket": "Domkyrkogatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Platensgatan",
+      "__EMPTY": 256,
+      "582 23 Paket": "Guldsmedsgränd",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Repslagaregatan ",
+      "__EMPTY": 261,
+      "582 23 Paket": "Göran Dyks gata",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Sankt Larsgatan 1-16",
+      "__EMPTY": 256,
+      "582 23 Paket": "Sankt Larsgatan 1-19",
+      "__EMPTY_2": 256
+    },
+    {
+      "582 22 Paket": "Sankt Larsgatan 17-52",
+      "__EMPTY": 261,
+      "582 23 Paket": "Sankt Larsgatan 20-68",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Snickaregatan ",
+      "__EMPTY": 261,
+      "582 23 Paket": "Stora Badstugatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Torkelbergsgatan ",
+      "__EMPTY": 261,
+      "582 23 Paket": "Tanneforsgatan",
+      "__EMPTY_2": 261
+    },
+    {
+      "582 22 Paket": "Tullgränd",
+      "__EMPTY": 261
+    },
+    {
+      "582 22 Paket": "Ågatan 1-35",
+      "__EMPTY": 261,
+      "582 23 Paket": "582 54 Råberga/SAAB"
+    },
+    {
+      "582 22 Paket": "Ågatan 2-26",
+      "__EMPTY": 261,
+      "582 23 Paket": "Anders Ljungstedts gata",
+      "__EMPTY_2": 526
+    },
+    {
+      "582 22 Paket": "Ågatan 28-40",
+      "__EMPTY": 256,
+      "582 23 Paket": "ASJ-vägen",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 22 Paket": "Ågatan 37-65",
+      "__EMPTY": 256,
+      "582 23 Paket": "Bröderna Ugglas gata",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Civila vägen",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Ensbovägen",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Faktorivägen",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Gelbgjutaregatan",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Saabvägen",
+      "__EMPTY_2": 551
+    },
+    {
+      "582 23 Paket": "Övriga adresser",
+      "__EMPTY_2": 551
+    }
+  ],
+  "SP Ombud": [
+    {
+      "PNR": 58644,
+      "PORT": "Linköping",
+      "Zon": "Din Närbutik Skäggetorp",
+      "Kod": 950
+    },
+    {
+      "PNR": 58727,
+      "PORT": "Linköping",
+      "Zon": "Spel och Godis Johannelund-Babylon",
+      "Kod": 951
+    },
+    {
+      "PNR": 58236,
+      "PORT": "Linköping",
+      "Zon": "Handlarn Åbylund",
+      "Kod": 952
+    },
+    {
+      "PNR": 59558,
+      "PORT": "Linköping",
+      "Zon": "Gulf Mantorp",
+      "Kod": 920
+    },
+    {
+      "PNR": 58732,
+      "PORT": "Linköping",
+      "Zon": "Majeldens Tobak",
+      "Kod": 953
+    },
+    {
+      "PNR": 58219,
+      "PORT": "Linköping",
+      "Zon": "Grändens Spel och Tobak",
+      "Kod": 954
+    },
+    {
+      "PNR": 58662,
+      "PORT": "Linköping",
+      "Zon": "Kärna Servicebutik",
+      "Kod": 956
+    },
+    {
+      "PNR": 58372,
+      "PORT": "Linköping",
+      "Zon": "OKQ8 Vikingstad",
+      "Kod": 955
+    },
+    {
+      "PNR": 58571,
+      "PORT": "Linköping",
+      "Zon": "Hemköp Ljungsbro",
+      "Kod": 958
+    }
+  ],
+  "Konsolideringsnr ": [
+    {
+      "Konsolideringsnr och portplats": "SP Namn",
+      "__EMPTY": "Gammalt begrepp",
+      "__EMPTY_1": "Nytt begrepp",
+      "__EMPTY_2": "Port Kod"
+    },
+    {
+      "Konsolideringsnr och portplats": "OKQ8 SÖDERKÖPING                 ",
+      "__EMPTY": 517,
+      "__EMPTY_1": 910,
+      "__EMPTY_2": 141
+    },
+    {
+      "Konsolideringsnr och portplats": "CIRCLE K SÖDERKÖPING             ",
+      "__EMPTY": 522,
+      "__EMPTY_1": 911,
+      "__EMPTY_2": 131
+    },
+    {
+      "Konsolideringsnr och portplats": "HULTMARKS ÅKERI AB ÅTVIDABERG ",
+      "__EMPTY": 672,
+      "__EMPTY_1": 912,
+      "__EMPTY_2": 101
+    },
+    {
+      "Konsolideringsnr och portplats": "GULF MANTORP                     ",
+      "__EMPTY": 347,
+      "__EMPTY_1": 920,
+      "__EMPTY_2": 216
+    },
+    {
+      "Konsolideringsnr och portplats": "PREEM MOTALA                     ",
+      "__EMPTY": 542,
+      "__EMPTY_1": 930,
+      "__EMPTY_2": 301
+    },
+    {
+      "Konsolideringsnr och portplats": "MAXI ICA STORMARKNAD MOTALA      ",
+      "__EMPTY": 417,
+      "__EMPTY_1": 931,
+      "__EMPTY_2": 301
+    },
+    {
+      "Konsolideringsnr och portplats": "OKQ8 VADSTENA                    ",
+      "__EMPTY": 428,
+      "__EMPTY_1": 932,
+      "__EMPTY_2": 346
+    },
+    {
+      "Konsolideringsnr och portplats": "NYA BLOMSTERHANDELN",
+      "__EMPTY": 623,
+      "__EMPTY_1": 933,
+      "__EMPTY_2": 336
+    },
+    {
+      "Konsolideringsnr och portplats": "ESPLANADEN LIVS",
+      "__EMPTY": 527,
+      "__EMPTY_1": 940,
+      "__EMPTY_2": 426
+    },
+    {
+      "Konsolideringsnr och portplats": "ICA NÄRA NYKÖPING                ",
+      "__EMPTY": 277,
+      "__EMPTY_1": 941,
+      "__EMPTY_2": 416
+    },
+    {
+      "Konsolideringsnr och portplats": "ICA SUPERMARKET KRONHALLEN       ",
+      "__EMPTY": 607,
+      "__EMPTY_1": 942,
+      "__EMPTY_2": 426
+    },
+    {
+      "Konsolideringsnr och portplats": "HEMKÖP SPELHAGEN              ",
+      "__EMPTY": 712,
+      "__EMPTY_1": 943,
+      "__EMPTY_2": 416
+    },
+    {
+      "Konsolideringsnr och portplats": "DIN NÄRBUTIK SKÄGGETORP          ",
+      "__EMPTY": 337,
+      "__EMPTY_1": 950,
+      "__EMPTY_2": 541
+    },
+    {
+      "Konsolideringsnr och portplats": "SPEL OCH GODIS JOHANNELUND-BABYLO",
+      "__EMPTY": 302,
+      "__EMPTY_1": 951,
+      "__EMPTY_2": 506
+    },
+    {
+      "Konsolideringsnr och portplats": "HANDLARN ÅBYLUND",
+      "__EMPTY": 303,
+      "__EMPTY_1": 952,
+      "__EMPTY_2": 546
+    },
+    {
+      "Konsolideringsnr och portplats": "MAJELDENS TOBAK                  ",
+      "__EMPTY": 418,
+      "__EMPTY_1": 953,
+      "__EMPTY_2": 551
+    },
+    {
+      "Konsolideringsnr och portplats": "GRÄNDENS SPEL O TOBAK            ",
+      "__EMPTY": 427,
+      "__EMPTY_1": 954,
+      "__EMPTY_2": 536
+    },
+    {
+      "Konsolideringsnr och portplats": "OKQ8 VIKINGSTAD                  ",
+      "__EMPTY": 103,
+      "__EMPTY_1": 955,
+      "__EMPTY_2": 521
+    },
+    {
+      "Konsolideringsnr och portplats": "KÄRNA SERVICEBUTIK",
+      "__EMPTY": 132,
+      "__EMPTY_1": 956,
+      "__EMPTY_2": 521
+    },
+    {
+      "Konsolideringsnr och portplats": "GURKANS LIVS                     ",
+      "__EMPTY": 142,
+      "__EMPTY_1": 957,
+      "__EMPTY_2": 546
+    },
+    {
+      "Konsolideringsnr och portplats": "HEMKÖP LJUNGSBRO                 ",
+      "__EMPTY": 622,
+      "__EMPTY_1": 958,
+      "__EMPTY_2": 516
+    },
+    {
+      "Konsolideringsnr och portplats": "HEMKÖP NORRKÖPING LJURA          ",
+      "__EMPTY": 528,
+      "__EMPTY_1": 960,
+      "__EMPTY_2": 621
+    },
+    {
+      "Konsolideringsnr och portplats": "RAED LIVS NORRKÖPING             ",
+      "__EMPTY": 538,
+      "__EMPTY_1": 961,
+      "__EMPTY_2": 606
+    },
+    {
+      "Konsolideringsnr och portplats": "COOP ÖSTERMALMSHALLEN",
+      "__EMPTY": 548,
+      "__EMPTY_1": 962,
+      "__EMPTY_2": 681
+    },
+    {
+      "Konsolideringsnr och portplats": "PRESSBYRÅN REPSLAGAREGATAN       ",
+      "__EMPTY": 553,
+      "__EMPTY_1": 963,
+      "__EMPTY_2": 636
+    },
+    {
+      "Konsolideringsnr och portplats": "ICA SUPERMARKET SMEDBY           ",
+      "__EMPTY": 252,
+      "__EMPTY_1": 964,
+      "__EMPTY_2": 621
+    },
+    {
+      "Konsolideringsnr och portplats": "MYWAY KUNGSGATAN NORRKÖPING   ",
+      "__EMPTY": 637,
+      "__EMPTY_1": 965,
+      "__EMPTY_2": 606
+    },
+    {
+      "Konsolideringsnr och portplats": "MYWAY ÅBY                     ",
+      "__EMPTY": 682,
+      "__EMPTY_1": 966,
+      "__EMPTY_2": 671
+    }
+  ],
+  "Norrköping": [
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60182,
+      "Adress": "GAMLA ÖVÄGEN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60188,
+      "Adress": "VATTENGRÄNDEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60208,
+      "Adress": "DE GEERSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60209,
+      "Adress": "FAKTOR PALMS VÄG",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60209,
+      "Adress": "FYRBYVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60209,
+      "Adress": "HALLBERGAGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60209,
+      "Adress": "HANGARGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60209,
+      "Adress": "VIGGENGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60210,
+      "Adress": "FISKEBYVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60210,
+      "Adress": "GRENADJÄRVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60210,
+      "Adress": "KABELVÄGEN",
+      "Platsnamn": 611
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60211,
+      "Adress": "RÖSGÅNGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60212,
+      "Adress": "SLÅTTERGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60212,
+      "Adress": "TABORGSBERGSVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60213,
+      "Adress": "FRIDHEMSVÄGEN",
+      "Platsnamn": 611
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60213,
+      "Adress": "KARLSHOVSVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60213,
+      "Adress": "LUNDATORPSVÄGEN",
+      "Platsnamn": 611
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60214,
+      "Adress": "BREDA VÄGEN / RAED LIVS NORRKÖPING",
+      "Platsnamn": 712
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60215,
+      "Adress": "HAGAGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60216,
+      "Adress": "HIMMELSTALUNDSVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60216,
+      "Adress": "VÄRMLANDSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60217,
+      "Adress": "STOCKHOLMSVÄGEN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60218,
+      "Adress": "ENEBYGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60218,
+      "Adress": "NORRA PROMENADEN 116",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60218,
+      "Adress": "UPPLANDSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60219,
+      "Adress": "DRAGSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60220,
+      "Adress": "KUNGSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60220,
+      "Adress": "SLOTTSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60220,
+      "Adress": "VATTENGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60221,
+      "Adress": "BREDGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60221,
+      "Adress": "SANDGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60221,
+      "Adress": "TUNNBINDAREGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60221,
+      "Adress": "VÄSTGÖTEGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60222,
+      "Adress": "GARVAREGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60222,
+      "Adress": "NORRA PROMENADEN 90",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60222,
+      "Adress": "SLOTTSGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "BLYGATAN",
+      "Platsnamn": 666
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "BUTÄNGSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "FABRIKSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "FREDRIKSDALSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "JÄRNGATAN",
+      "Platsnamn": 665
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KISELGATAN",
+      "Platsnamn": 666
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KOPPARGATAN",
+      "Platsnamn": 661
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KRISTINELUGNSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KROMGATAN",
+      "Platsnamn": 670
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KRONÄNGSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "KVICKSILVERGATAN",
+      "Platsnamn": 612
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "LINDAKERSGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "LINNÉGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "MALMGATAN",
+      "Platsnamn": 666
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "MASKINGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "PLATINAGATAN",
+      "Platsnamn": 661
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "SPÅRGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "STRÖBOGATAN 10 / BAUHAUS WEB",
+      "Platsnamn": 86
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "STRÖBOGATAN 5 / STADIUM DC",
+      "Platsnamn": 612
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "STÅTHÖGAVÄGEN",
+      "Platsnamn": 661
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "TENNGATAN",
+      "Platsnamn": 661
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60223,
+      "Adress": "ZINKGATAN",
+      "Platsnamn": 612
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60224,
+      "Adress": "DROTTNINGGATAN ",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60224,
+      "Adress": "NYA RÅDSTUGUGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60225,
+      "Adress": "SKOLGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60226,
+      "Adress": "KNÄPPINGSBORGSGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60226,
+      "Adress": "KRISTINAGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60227,
+      "Adress": "HOSPITALGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "BANGÅRDSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "EXPORTGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "GUSTAF ADOLFSSONGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "IMPORTGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "LINDÖVÄGEN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "MÄKLAREGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "RISÄNGSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "RÖDA STUGANS GATA",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "RÖRGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "RÖRGATAN / OCL BRORSSONS AB",
+      "Platsnamn": 696
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "SJÖTULLSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "SLAKTHUSVÄGEN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "SÖDERLEDEN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "TEGELANGSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "TOLAGSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "TULLHUSGATAN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60228,
+      "Adress": "ÖSTRA PROMENADEN",
+      "Platsnamn": 646
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60229,
+      "Adress": "ODALGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60229,
+      "Adress": "STOHAGSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60229,
+      "Adress": "VIKBOPLAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60230,
+      "Adress": "SKEPPAREGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60231,
+      "Adress": "GENERALSGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "DALSGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "GAMLA RÅDSTUGEGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "GAMLA TORGET",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "HANTVERKARGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "HOLMENGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "HOLMENTORGET",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "OLAI KYRKOGATA",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "PRÄSTGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "REPSLAGAREGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60232,
+      "Adress": "SKOMAKARGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60233,
+      "Adress": "KORSGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60233,
+      "Adress": "SANKT PERSGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60234,
+      "Adress": "NYGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60235,
+      "Adress": "SUNDELIUSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "ALHOLMSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "BLIXHOLMSVÄGEN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "ENERGIGATAN",
+      "Platsnamn": 651
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "HANHOLMSVÄGEN",
+      "Platsnamn": 651
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "JUNGMANSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "KAPTENSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "KOMMENDANTVÄGEN 8",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "NORRA PROMENADEN 29",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "RAMSHÄLLSVÄGEN",
+      "Platsnamn": 651
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "RETURGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "SALTÄNGSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "SKEPPSVÄGEN",
+      "Platsnamn": 612
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "SLOTTSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60238,
+      "Adress": "VÄSTRA BRAVIKENVÄGEN",
+      "Platsnamn": 651
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60239,
+      "Adress": "GAMLA LASARETTSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60241,
+      "Adress": "INGELSTAGATAN",
+      "Platsnamn": 656
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60242,
+      "Adress": "TORGGATAN",
+      "Platsnamn": 636
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60247,
+      "Adress": "LUNTGATAN",
+      "Platsnamn": 606
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60336,
+      "Adress": "KNEIPPGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60336,
+      "Adress": "LINKÖPINGSVÄGEN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60336,
+      "Adress": "LOKEGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60336,
+      "Adress": "UTSTÄLLNINGSVÄGEN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60336,
+      "Adress": "VATTENVERKSVÄGEN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60345,
+      "Adress": "MOBECKSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60349,
+      "Adress": "LJURAGATAN / ICA NÄRA LJURA",
+      "Platsnamn": 622
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60352,
+      "Adress": "HAGEBYGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60353,
+      "Adress": "ALBREKTSVÄGEN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60354,
+      "Adress": "HOLMSTAGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60354,
+      "Adress": "KLINGSBERGSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60356,
+      "Adress": "GRÅBERGSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60356,
+      "Adress": "URBERGSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60357,
+      "Adress": "VILBERGSGATAN 229",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60359,
+      "Adress": "LIDALEDEN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60359,
+      "Adress": "PRESSAREGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60359,
+      "Adress": "TIMMERMANSGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60360,
+      "Adress": "HYVLAREGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60360,
+      "Adress": "SNICKAREGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "ARKÖSUNDSVÄGEN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "BIGATAN / ICA SUPERMARKET SMEDBY",
+      "Platsnamn": 623
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "FJÄRILSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "SMEDBYGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "SPINNAREGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "SVÄRMAREGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60361,
+      "Adress": "TERMINALGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60363,
+      "Adress": "FOTBOLLSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60363,
+      "Adress": "HAMMARGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60363,
+      "Adress": "SKARPHAGSLEDEN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60365,
+      "Adress": "BRÅVIKSVÄGEN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60365,
+      "Adress": "DÄCKSMANSGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60366,
+      "Adress": "LÅNGDANSGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60366,
+      "Adress": "NAVESTASDGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60366,
+      "Adress": "SPELMANSGATAN",
+      "Platsnamn": 616
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60370,
+      "Adress": "BRÅNNESTADSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60370,
+      "Adress": "RAMBOGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60370,
+      "Adress": "STENSOPPSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60371,
+      "Adress": "ÅNESTADSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60372,
+      "Adress": "RAPSGATAN",
+      "Platsnamn": 621
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60373,
+      "Adress": "SPJUTGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60374,
+      "Adress": "EKTORPSGATAN / EKTORPSKIOSKEN EKTORP CENTRUM",
+      "Platsnamn": 165
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60374,
+      "Adress": "STAFETTGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60375,
+      "Adress": "ABBORREBERGSVÄGEN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60375,
+      "Adress": "SLÖRGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60376,
+      "Adress": "MATHILDA JUNGSTEDTS GATA",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60377,
+      "Adress": "AXEL SWARTLINGS GATA",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60378,
+      "Adress": "FRANS BLOMS GATA",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60378,
+      "Adress": "GUSTAF CLASONS GATA",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60378,
+      "Adress": "MOA MARTINSSONS GATA",
+      "Platsnamn": 611
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60379,
+      "Adress": "SPRÄNGSTENSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60379,
+      "Adress": "VRINNEVISJUKHUSET",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60380,
+      "Adress": "DALVIKSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60380,
+      "Adress": "FOLKBORGSVÄGEN",
+      "Platsnamn": 611
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60380,
+      "Adress": "HERREBROGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60385,
+      "Adress": "NORDVAESTGATAN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60385,
+      "Adress": "TRAVBANEVÄGEN",
+      "Platsnamn": 631
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60386,
+      "Adress": "KALKSTENSGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60386,
+      "Adress": "PINNMOGATAN",
+      "Platsnamn": 626
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60595,
+      "Adress": "INGELTORPSVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60595,
+      "Adress": "TOFSMESVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60595,
+      "Adress": "ÖBONÄSVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60595,
+      "Adress": "ÖNSKEHEMSVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "DJURTORP",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "GRÖNLUNDSVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "GULLVIVSSTIGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "LUDDEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "LUDDINGSBOVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "MEKANIKUSVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "NORRBOSTIGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "NYPONSTIGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "SLUSSVAKTARVÄGEN",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60596,
+      "Adress": "VÄSTRA HUSBY",
+      "Platsnamn": 676
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "BORG HÄRADSUDDEN",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "HERREBRO GÅRD",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "HORNS VÄG",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "SKALLES VÄG",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "ST. HERREBO",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60597,
+      "Adress": "VALLSTIGEN",
+      "Platsnamn": 601
+    },
+    {
+      "Ort": "NORRKÖPING",
+      "PostNr": 60599,
+      "Adress": "FINSPÅNGSVÄGEN",
+      "Platsnamn": 606
+    }
+  ],
+  "Karta": [
+    {
+      "__EMPTY_1": "Sorteringsbegrepp"
+    },
+    {
+      "__EMPTY_2": "Port 42"
+    },
+    {
+      "__EMPTY_2": "Port 41",
+      "__EMPTY_11": "Gamla ",
+      "__EMPTY_12": "Nya"
+    },
+    {
+      "__EMPTY_2": "Port 40",
+      "__EMPTY_9": "NRL054",
+      "__EMPTY_12": "Se nedan"
+    },
+    {
+      "__EMPTY_1": "551-555",
+      "__EMPTY_2": "Port 39",
+      "__EMPTY_9": "NRL080",
+      "__EMPTY_12": "Se nedan"
+    },
+    {
+      "__EMPTY_1": "546-550",
+      "__EMPTY_2": "Port 38",
+      "__EMPTY_9": "SPÄ",
+      "__EMPTY_12": 998
+    },
+    {
+      "__EMPTY_1": "541-545",
+      "__EMPTY_2": "Port 37",
+      "__EMPTY_9": "OTA",
+      "__EMPTY_11": "1",
+      "__EMPTY_12": 1
+    },
+    {
+      "__EMPTY_1": "536-540",
+      "__EMPTY_2": "Port 36",
+      "__EMPTY_9": "G7",
+      "__EMPTY_11": "777",
+      "__EMPTY_12": 777
+    },
+    {
+      "__EMPTY_1": "531-535",
+      "__EMPTY_2": "Port 35",
+      "__EMPTY_9": "AVI",
+      "__EMPTY_11": "800",
+      "__EMPTY_12": "Se nedan"
+    },
+    {
+      "__EMPTY_1": "526-530",
+      "__EMPTY_2": "Port 34",
+      "__EMPTY_9": "Arne Andersson Åkeri",
+      "__EMPTY_11": 44,
+      "__EMPTY_12": "OVR298"
+    },
+    {
+      "__EMPTY_1": "521-525",
+      "__EMPTY_2": "Port 33",
+      "__EMPTY_9": "DHL Norrköping",
+      "__EMPTY_11": 76,
+      "__EMPTY_12": "OVR698"
+    },
+    {
+      "__EMPTY_2": "Port 32",
+      "__EMPTY_9": "HD Alfredsson",
+      "__EMPTY_11": 601,
+      "__EMPTY_12": 860
+    },
+    {
+      "__EMPTY_1": "511-520",
+      "__EMPTY_2": "Port 31",
+      "__EMPTY_9": "HD Foria",
+      "__EMPTY_11": 602,
+      "__EMPTY_12": 840
+    },
+    {
+      "__EMPTY_2": "Port 30",
+      "__EMPTY_9": "HD AA",
+      "__EMPTY_11": 603,
+      "__EMPTY_12": 820
+    },
+    {
+      "__EMPTY_3": "Svampen",
+      "__EMPTY_9": "EDT NRK (LOL och Ödeshög)",
+      "__EMPTY_11": "EDT85",
+      "__EMPTY_12": "EDT699"
+    },
+    {
+      "__EMPTY_1": "506-510",
+      "__EMPTY_2": "Port 29",
+      "__EMPTY_9": "EDT NRK (HULT och skärb)",
+      "__EMPTY_11": "EDT71",
+      "__EMPTY_12": "EDT199"
+    },
+    {
+      "__EMPTY_1": "501-505",
+      "__EMPTY_2": "Port 28",
+      "__EMPTY_7": " ",
+      "__EMPTY_9": "EDT LINK",
+      "__EMPTY_10": "Port 9*",
+      "__EMPTY_11": "EDT46",
+      "__EMPTY_12": "EDT299"
+    },
+    {
+      "__EMPTY_1": "556-560",
+      "__EMPTY_2": "Port 27",
+      "__EMPTY_7": "Port 84",
+      "__EMPTY_8": "691-695",
+      "__EMPTY_9": "EDT MOT",
+      "__EMPTY_11": "EDT111",
+      "__EMPTY_12": "EDT399"
+    },
+    {
+      "__EMPTY_1": "401-445",
+      "__EMPTY_2": "Port 26",
+      "__EMPTY_7": "Port 83",
+      "__EMPTY_8": "686-690",
+      "__EMPTY_9": "EDT NYK",
+      "__EMPTY_11": "EDT16",
+      "__EMPTY_12": "EDT499"
+    },
+    {
+      "__EMPTY_1": "401-445",
+      "__EMPTY_2": "Port 25",
+      "__EMPTY_7": "Port 82",
+      "__EMPTY_8": "681-685",
+      "__EMPTY_9": "AVI HUL",
+      "__EMPTY_12": "AVI100"
+    },
+    {
+      "__EMPTY_1": "401-445",
+      "__EMPTY_2": "Port 24",
+      "__EMPTY_7": "Port 81",
+      "__EMPTY_8": "676-680",
+      "__EMPTY_9": "AVI LIN",
+      "__EMPTY_12": "AVI200"
+    },
+    {
+      "__EMPTY_2": "Port 23",
+      "__EMPTY_5": "E699",
+      "__EMPTY_7": "Port 80",
+      "__EMPTY_8": "671-675",
+      "__EMPTY_9": "AVI MOT",
+      "__EMPTY_12": "AVI300"
+    },
+    {
+      "__EMPTY_2": "Port 22",
+      "__EMPTY_6": 670,
+      "__EMPTY_7": "Port 79",
+      "__EMPTY_8": "666-669",
+      "__EMPTY_9": "AVI NYK",
+      "__EMPTY_12": "AVI400"
+    },
+    {
+      "__EMPTY_2": "Port 21",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": 665,
+      "__EMPTY_7": "Port 78",
+      "__EMPTY_8": "661-664",
+      "__EMPTY_9": "AVI LIN ??",
+      "__EMPTY_12": "AVI500"
+    },
+    {
+      "__EMPTY_2": "Port 20",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": 660,
+      "__EMPTY_7": "Port 77",
+      "__EMPTY_8": "656-659",
+      "__EMPTY_9": "AVI NRK",
+      "__EMPTY_12": "AVI600"
+    },
+    {
+      "__EMPTY_2": "Port 19",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 76",
+      "__EMPTY_9": "AVI NRK BILHALL",
+      "__EMPTY_12": "AVI700"
+    },
+    {
+      "__EMPTY_2": "Port 18",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 75"
+    },
+    {
+      "__EMPTY_2": "Port 17",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 74",
+      "__EMPTY_9": "STP",
+      "__EMPTY_12": 999
+    },
+    {
+      "__EMPTY_2": "Port 16",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 73"
+    },
+    {
+      "__EMPTY_2": "Port 15",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 72"
+    },
+    {
+      "__EMPTY_2": "Port 14",
+      "__EMPTY_3": "Godsmott.",
+      "__EMPTY_6": "Godsmott.",
+      "__EMPTY_7": "Port 71"
+    },
+    {
+      "__EMPTY_2": "Port 13",
+      "__EMPTY_7": "Port 70",
+      "__EMPTY_8": "651-655"
+    },
+    {
+      "__EMPTY_3": "Gångdörr",
+      "__EMPTY_7": "Port 69",
+      "__EMPTY_8": "646-650"
+    },
+    {
+      "__EMPTY_1": "301-350",
+      "__EMPTY_2": "Port 12",
+      "__EMPTY_7": "Port 68",
+      "__EMPTY_8": "641-645"
+    },
+    {
+      "__EMPTY_1": "301-350",
+      "__EMPTY_2": "Port 11",
+      "__EMPTY_7": "Port 67",
+      "__EMPTY_8": "636-640"
+    },
+    {
+      "__EMPTY_1": "221-250",
+      "__EMPTY_2": "Port 10",
+      "__EMPTY_7": "Port 66",
+      "__EMPTY_8": "631-635"
+    },
+    {
+      "__EMPTY": 299,
+      "__EMPTY_1": "221-250",
+      "__EMPTY_2": "Port 9",
+      "__EMPTY_7": "Port 65",
+      "__EMPTY_8": "626-630"
+    },
+    {
+      "__EMPTY_1": "201-220",
+      "__EMPTY_2": "Port 8",
+      "__EMPTY_7": "Port 64",
+      "__EMPTY_8": "621-625"
+    },
+    {
+      "__EMPTY_1": "201-220",
+      "__EMPTY_2": "Port 7",
+      "__EMPTY_6": "Gångdörr",
+      "__EMPTY_7": "Port 63",
+      "__EMPTY_8": "616-620"
+    },
+    {
+      "__EMPTY": "251-285 Bursläp",
+      "__EMPTY_1": "141-150",
+      "__EMPTY_2": "Port 6",
+      "__EMPTY_7": "Port 62",
+      "__EMPTY_8": "611-615"
+    },
+    {
+      "__EMPTY_1": "131-140",
+      "__EMPTY_2": "Port 5",
+      "__EMPTY_7": "Port 61",
+      "__EMPTY_8": "611-615"
+    },
+    {
+      "__EMPTY_1": "121-130",
+      "__EMPTY_2": "Port 4",
+      "__EMPTY_7": "Port 60",
+      "__EMPTY_8": "606-610"
+    },
+    {
+      "__EMPTY_1": "111-120",
+      "__EMPTY_2": "Port 3",
+      "__EMPTY_7": "Port 59",
+      "__EMPTY_8": "601-605"
+    },
+    {
+      "__EMPTY_1": "101-110",
+      "__EMPTY_2": "Port 2",
+      "__EMPTY_7": "Port 58",
+      "__EMPTY_8": "696-698"
+    },
+    {
+      "__EMPTY_2": "Port 50",
+      "__EMPTY_3": "Port 51",
+      "__EMPTY_4": "Port 52",
+      "__EMPTY_5": "Port 53",
+      "__EMPTY_6": "Port 54"
+    },
+    {
+      "__EMPTY_1": "Sorteringsbegrepp",
+      "__EMPTY_3": " 701-720   E166 till Höger"
+    }
+  ]
+}
